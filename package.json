@@ -1,0 +1,25 @@
+{
+  "name": "musicapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makindemayowa/musicApi.git"
+  },
+  "author": "Mayowa Makinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makindemayowa/musicApi/issues"
+  },
+  "homepage": "https://github.com/makindemayowa/musicApi#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0",
+    "require": "^2.4.20"
+  }
+}
